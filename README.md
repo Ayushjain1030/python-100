@@ -1,4 +1,4 @@
-FOR CYBER SECURITY -
+FOR CYBER SECURITY (pentesting) -
 python 100 days for cyber security
 
 Phase 1: Python Fundamentals (Days 1–25)
